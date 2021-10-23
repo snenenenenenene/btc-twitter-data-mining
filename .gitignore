@@ -1,2 +1,9 @@
 *.csv
 velo.ipynb
+
+/.ipynb_checkpoints/
+/venv/
+/data/
+/.vscode/
+/.idea/
+
