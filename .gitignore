@@ -1,6 +1,6 @@
 *.csv
 velo.ipynb
-
+test.ipynb
 /.ipynb_checkpoints/
 /venv/
 /data/
