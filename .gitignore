@@ -1,9 +1,9 @@
 *.csv
 velo.ipynb
 test.ipynb
-/.ipynb_checkpoints/
-/venv/
-/data/
-/.vscode/
-/.idea/
-
+.ipynb_checkpoints
+venv
+data/
+.vscode
+.idea
+.DS_Store
